@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio0",NAME="ภาษาไทย",LANGUAGE="tha",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="https://master.streamhls.com/filesr2/153f239d6ba056c5b7a5dde7e6d6d2d7/audio/audio_0"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2500000,RESOLUTION=1280x720,CODECS="avc1.64001e,mp4a.40.2",AUDIO="audio0"
+https://master.streamhls.com/filesr2/153f239d6ba056c5b7a5dde7e6d6d2d7/720/index
