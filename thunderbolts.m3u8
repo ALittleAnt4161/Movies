@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",LANGUAGE="eng",NAME="ENG",DEFAULT=NO,AUTOSELECT=NO,URI="https://statics-01.duckduckcdn.com/3eb0966f-2227-51aa-a156-82977dc77a8f/audio-eng/audio.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",LANGUAGE="tha",NAME="THA",DEFAULT=YES,AUTOSELECT=YES,URI="https://statics-01.duckduckcdn.com/3eb0966f-2227-51aa-a156-82977dc77a8f/audio-tha/audio.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=3500000,RESOLUTION=1920x1080,CODECS="avc1.4d401e,mp4a.40.2",AUDIO="aac"
+https://statics-01.duckduckcdn.com/3eb0966f-2227-51aa-a156-82977dc77a8f/videos/1080p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720,CODECS="avc1.4d401e,mp4a.40.2",AUDIO="aac"
+https://statics-01.duckduckcdn.com/3eb0966f-2227-51aa-a156-82977dc77a8f/videos/720p.m3u8
