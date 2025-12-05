@@ -116,32 +116,26 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low
 ################################# Transformers ##################################
 
 #EXTINF:-1 tvg-logo="https://www.v8-hdd.com/wp-content/uploads/2019/10/bgSHbGEA1OM6qDs3Qba4VlSZsNG.jpg" group-title="Transformers Collection",Transformers 1 (2007)
-#EXTVLCOPT:http-referrer=xxx
 #https://master.streamhls.com/hls/151b41f5e690e0d032916617f6d9a3b5/master.m3u8
 https://api.doo-nang.com/video/3d6b8ed7-6961-530d-b414-005612101393/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.v8-hdd.com/wp-content/uploads/2019/10/kVISXAXDYhjQCfu50QZeCCzzbPv.jpg" group-title="Transformers Collection",Transformers 2 Revenge of the Fallen (2009)
-#EXTVLCOPT:http-referrer=xxx
 https://master.streamhls.com/hls/0251a04ba9e0bcaf8b876caa55848426/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.v8-hdd.com/wp-content/uploads/2019/10/sZY3ls18QTY0pFBJn2vl2MmauTQ.jpg" group-title="Transformers Collection",Transformers 3 Dark of the Moon (2011)
-#EXTVLCOPT:http-referrer=xxx
 https://master.streamhls.com/hls/099b0d12eb755571b3cc75b2dff500a2/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.v8-hdd.com/wp-content/uploads/2019/10/ykIZB9dYBIKV13k5igGFncT5th6.jpg" group-title="Transformers Collection",Transformers 4 Age of Extinction (2014)
-#EXTVLCOPT:http-referrer=xxx
 https://master.streamhls.com/hls/9cfb08836e2fb3e8081d03737d4ce692/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.v8-hdd.com/wp-content/uploads/2019/10/TransformersThe-Last-Knight-2017.jpg" group-title="Transformers Collection",Transformers 5 The Last Knight (2017)
-#EXTVLCOPT:http-referrer=xxx
 https://master.streamhls.com/hls/83ebab0ffcb4d0d4609abe1de75f6fea/master.m3u8
 
 ################################# 2025 ##################################
 
 
 #EXTINF:-1 tvg-logo="https://www.v8-hdd.com/wp-content/uploads/2025/11/In-Your-Dreams_2025.jpg" group-title="2025",In Your Dreams ผจญภัยในฝัน
-#EXTVLCOPT:http-referrer=xxx
 https://master.streamhls.com/hls/20bb77f13128c77fbd02f4c85247d5ee/master.m3u8
 
 
@@ -156,7 +150,6 @@ https://master.streamhls.com/hls/20bb77f13128c77fbd02f4c85247d5ee/master.m3u8
 ################################# 2023 ##################################
 
 #EXTINF:-1 tvg-logo="https://www.v8-hdd.com/wp-content/uploads/2023/06/Flamin-Hot-2023.jpg" group-title="2023",Flamin’ Hot
-#EXTVLCOPT:http-referrer=xxx
 https://master.streamhls.com/hls/6f9dcc99e4b3c567f9daa6d29bc9dcb1/master.m3u8
 
 
