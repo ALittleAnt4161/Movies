@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",LANGUAGE="undefined",NAME="UNDEFINED",DEFAULT=YES,AUTOSELECT=YES,URI="https://statics-01.quackquackcdn.com/302da152-2d5c-5419-ac12-6fefe521ea36/audio-undefined/audio.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=3500000,RESOLUTION=1920x1080,CODECS="avc1.4d401e,mp4a.40.2",AUDIO="aac"
+https://statics-01.quackquackcdn.com/302da152-2d5c-5419-ac12-6fefe521ea36/videos/1080p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720,CODECS="avc1.4d401e,mp4a.40.2",AUDIO="aac"
+https://statics-01.quackquackcdn.com/302da152-2d5c-5419-ac12-6fefe521ea36/videos/720p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480,CODECS="avc1.4d401e,mp4a.40.2",AUDIO="aac"
+https://statics-01.quackquackcdn.com/302da152-2d5c-5419-ac12-6fefe521ea36/videos/480p.m3u8
